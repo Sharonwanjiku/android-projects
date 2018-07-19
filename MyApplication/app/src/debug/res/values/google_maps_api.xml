@@ -1,0 +1,32 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=38:4E:56:BB:AA:08:B8:CB:24:F6:26:7F:1A:E3:7A:5C:AA:AB:23:05%3Bcom.example.emobilis.myapplication
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    38:4E:56:BB:AA:08:B8:CB:24:F6:26:7F:1A:E3:7A:5C:AA:AB:23:05
+
+    SHA-1 certificate fingerprint:
+    38:4E:56:BB:AA:08:B8:CB:24:F6:26:7F:1A:E3:7A:5C:AA:AB:23:05
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key"
+
+
+
+
+
+
+
+    ="preserve" translatable="false">YOUR_KEY_HERE</string>
+</resources>

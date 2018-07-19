@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "976757028978",
+    "firebase_url": "https://kush-cb154.firebaseio.com",
+    "project_id": "kush-cb154",
+    "storage_bucket": "kush-cb154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976757028978:android:2eab5ab316343ff7",
+        "android_client_info": {
+          "package_name": "com.example.emobilis.firebaseafte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976757028978-qp1bm7i4ngcbo6jvde0t3hou9tc9kajd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVFPdfCeq7d-wJEVAgXQXZal-JSqOgeMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
